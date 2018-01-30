@@ -106,11 +106,8 @@
 			children = (
 				F5AE09F6202078B2006BA4DB /* AppDelegate.h */,
 				F5AE09F7202078B3006BA4DB /* AppDelegate.m */,
-				F5AE0A28202078DF006BA4DB /* HKTeacher.h */,
-				F5AE0A29202078DF006BA4DB /* HKTeacher.m */,
-				F5AE09F9202078B3006BA4DB /* ViewController.h */,
-				F5AE09FA202078B3006BA4DB /* ViewController.m */,
 				F5AE09FC202078B3006BA4DB /* Main.storyboard */,
+				F5AE0A2B20207B19006BA4DB /* 归档解档 */,
 				F5AE09FF202078B3006BA4DB /* Assets.xcassets */,
 				F5AE0A01202078B3006BA4DB /* LaunchScreen.storyboard */,
 				F5AE0A04202078B3006BA4DB /* Info.plist */,
@@ -135,6 +132,17 @@
 				F5AE0A1C202078B3006BA4DB /* Info.plist */,
 			);
 			path = RuntimeFListUITests;
+			sourceTree = "<group>";
+		};
+		F5AE0A2B20207B19006BA4DB /* 归档解档 */ = {
+			isa = PBXGroup;
+			children = (
+				F5AE0A28202078DF006BA4DB /* HKTeacher.h */,
+				F5AE0A29202078DF006BA4DB /* HKTeacher.m */,
+				F5AE09F9202078B3006BA4DB /* ViewController.h */,
+				F5AE09FA202078B3006BA4DB /* ViewController.m */,
+			);
+			path = "归档解档";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
